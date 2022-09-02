@@ -1,4 +1,4 @@
-# Swift-ffundamentals
+# Swift-fundamentals
 
 
 - [X] Variables
